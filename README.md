@@ -16,8 +16,8 @@
 - 👯 I’m looking to collaborate on **Open Source / Full-stack Projects**
 - 💬 Ask me about **JavaScript, AdobeXD, React, Node.js, or anything tech!**
 - 📫 How to reach me: **[firasaleas_92@yahoo.com]**
-- 😄 Pronouns: **[He/Him | She/Her | They/Them]**
-- ⚡ Fun fact: **[A quirky fact about you!]**
+- 😄 Pronouns: **[He/Him]**
+- ⚡ Fun fact: **[Welcome to My Project! 😀🎉]**
 
 ---
 
