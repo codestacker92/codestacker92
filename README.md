@@ -4,15 +4,15 @@
 <h3 align="center">A passionate developer from [Canada]</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Lover;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m learning **[Technology you're learning]**
+- 🔭 I’m currently working on **[Self Employment]**
+- 🌱 I’m learning **[Technology Web Developer]**
 - 👯 I’m looking to collaborate on **Open Source / Full-stack Projects**
 - 💬 Ask me about **JavaScript, AdobeXD, React, Node.js, or anything tech!**
 - 📫 How to reach me: **[firasaleas_92@yahoo.com]**
@@ -55,7 +55,7 @@ Here are a few things I’ve built recently:
 ## 🌍 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/codestacker92"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/codestacker92"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.facebook.com/firasaleas"><img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+  <a href="mailto:firasaleas_92@yahoo.com"><img src="https://img.shields.io/badge/yahoo-D14836?style=for-the-badge&logo=yahoo&logoColor=white"/></a>
+  <a href="https://www.instagram.com/firas.aleas/#"><img src="https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
