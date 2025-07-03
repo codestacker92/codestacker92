@@ -8,6 +8,7 @@
 </p>
 
 
+
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **[Self Employment]**
@@ -18,6 +19,7 @@
 - 😄 Pronouns: **[He/Him]**
 - ⚡ Fun fact: **[Welcome to My Project! 😀🎉]**
 Thank you, Firas! Based on the detailed information you’ve provided, here is a refined and professional **"Background & Expertise"** section for your GitHub profile README. It's clear, well-structured, and suitable for potential collaborators, employers, or visitors checking out your profile.
+
 
 
 ## 👨‍💻 Background & Expertise
@@ -39,19 +41,24 @@ Hello! I'm **Firas Altaweel**, a motivated and versatile developer-in-training, 
 * **2014–2016**    — Salesperson at Dijla Company | *Iraq*
 * **2012–2014**    — AutoCAD Designer at Dijla Company | *Iraq*
 
+
+
 ### 📜 Certifications & Education
 
 * 🎓 **Diploma in Drawing Engineering (AutoCAD)**
 * 📄 **Accounting Certificate**
 
+
+
 ### 🎯 Goals & Interests
 
 I'm currently focused on:
 
-* Expanding my skills in **software development** and **web technologies**
+* Expanding my skills in **Web development** and **web technologies**
 * Collaborating on **open source** and freelance projects
 * Gaining practical experience through **real-world applications**
 * Building a strong developer portfolio and contributing to the tech community
+
 
 
 ## 🛠️ Tech Stack
@@ -60,6 +67,7 @@ I'm currently focused on:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,python,django,tailwind,html,css,git,github,postgres,mongodb,docker" />
 </p>
+
 
 
 ## 📈 GitHub Stats
@@ -74,6 +82,7 @@ I'm currently focused on:
 </p>
 
 
+
 ## 🔥 Projects
 
 Here are a few things I’ve built recently:
@@ -85,6 +94,7 @@ Tech: JavaScript, Canvas API, HTML5
 - 🌐 [Portfolio Website](https://your-portfolio.com)
 — My personal developer portfolio, showcasing my projects, skills, and resume in a modern, responsive design.
 Tech: HTML, CSS, JavaScript, GSAP
+
 
 
 ## 🌍 Let's Connect
