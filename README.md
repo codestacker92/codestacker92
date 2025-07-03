@@ -15,7 +15,7 @@
 - 🌱 I’m learning **[Technology you're learning]**
 - 👯 I’m looking to collaborate on **Open Source / Full-stack Projects**
 - 💬 Ask me about **JavaScript, AdobeXD, React, Node.js, or anything tech!**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[firasaleas_92@yahoo.com]**
 - 😄 Pronouns: **[He/Him | She/Her | They/Them]**
 - ⚡ Fun fact: **[A quirky fact about you!]**
 
@@ -32,12 +32,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?codestacker92=codestacker92&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codestacker92&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codestacker92&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=codestacker92&theme=tokyonight" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?codestacker92=codestacker92&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestacker92&layout=compact&theme=tokyonight" />
 </p>
 
 ---
