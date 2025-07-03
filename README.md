@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,python,django,tailwind,html,css,git,github,postgres,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,python,django,tailwind,html,css,git,github,postgres,mongodb,docker" />
 </p>
 
 ---
@@ -46,9 +46,13 @@
 
 Here are a few things I’ve built recently:
 
-- 🧠 [Project 1 Name](https://github.com/codestacker92/PROJECT_1) — *Short description*
-- 🕹️ [Project 2 Name](https://github.com/codestacker92/PROJECT_2) — *Short description*
-- 🌐 [Portfolio Website](https://your-portfolio.com) — *Live preview of my work*
+- 🧠 [Project 1 Name](https://github.com/codestacker92/PROJECT_1)  - AI Personal Assistant — A smart virtual assistant built with Python, Flask, and OpenAI API. It can answer questions, schedule reminders, and generate summaries from long texts.
+Tech: Python, Flask, OpenAI, HTML/CSS
+- 🕹️ [Project 2 Name](https://github.com/codestacker92/PROJECT_2) — A browser-based arcade game inspired by retro pixel art, featuring multiple levels, enemy AI, and smooth animations.
+Tech: JavaScript, Canvas API, HTML5
+- 🌐 [Portfolio Website](https://your-portfolio.com)
+— My personal developer portfolio, showcasing my projects, skills, and resume in a modern, responsive design.
+Tech: HTML, CSS, JavaScript, GSAP
 
 ---
 
