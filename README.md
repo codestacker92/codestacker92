@@ -1,5 +1,8 @@
 <!-- GitHub Profile README for Firas Altaweel -->
 
+![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVqaHJpOTRtNzJ0ZjB0NnFxYml1MnJyZzhpdTc2emo4ajdqcDAzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yAGIvCiwPJn5C/giphy.gif))
+
+
 <h1 align="center">Hi there, I'm <a href="https://github.com/codestacker92">Firas Altaweel</a> 👋</h1>
 <h3 align="center">A passionate developer from [Canada]</h3>
 
