@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
 
-![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWplZ2JjaTZxY3B3dW9ieDN2ZXM2MGZsN21lazBtYmJpbzk0bnhsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
+![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzB2bmRnanJscjFjMzMycXRhcWg1MG95bG95ajZ4Y3ZmcGllZ3ByNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
 
 ## 🚀 About Me
 
