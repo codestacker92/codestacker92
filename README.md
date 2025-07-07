@@ -1,6 +1,5 @@
 <!-- GitHub Profile README for Firas Altaweel -->
 
-![Alt Text](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVqaHJpOTRtNzJ0ZjB0NnFxYml1MnJyZzhpdTc2emo4ajdqcDAzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yAGIvCiwPJn5C/giphy.gif))
 
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/codestacker92">Firas Altaweel</a> 👋</h1>
@@ -10,7 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
 </p>
 
-
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWplZ2JjaTZxY3B3dW9ieDN2ZXM2MGZsN21lazBtYmJpbzk0bnhsOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 ## 🚀 About Me
 
