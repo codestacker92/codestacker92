@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **[Self Employment]**
 - 🌱 I’m learning **[Technology Web Developer]**
 - 👯 I’m looking to collaborate on **Open Source / Full-stack Projects**
-- 💬 Ask me about **JavaScript, AdobeXD, React, Node.js, or anything tech!**
+- 💬 Ask me about **JavaScript, AdobeXD, VS code, AutoCad, Microsoft office!**
 - 📫 How to reach me: **[firasaleas_92@yahoo.com]**
 - 😄 Pronouns: **[He/Him]**
 - ⚡ Fun fact: **[Welcome to My Project! 😀🎉]**
