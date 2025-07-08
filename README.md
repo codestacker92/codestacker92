@@ -20,8 +20,6 @@
 - 📫 How to reach me: **[firasaleas_92@yahoo.com]**
 - 😄 Pronouns: **[He/Him]**
 - ⚡ Fun fact: **[Welcome to My Project! 😀🎉]**
-Thank you, Firas! Based on the detailed information you’ve provided, here is a refined and professional **"Background & Expertise"** section for your GitHub profile README. It's clear, well-structured, and suitable for potential collaborators, employers, or visitors checking out your profile.
-
 
 
 ## 👨‍💻 Background & Expertise
