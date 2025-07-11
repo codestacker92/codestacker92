@@ -103,7 +103,7 @@ Tech: HTML, CSS, JavaScript, GSAP
   <a href="https://www.facebook.com/firasaleas"><img src="https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=Facebook&logoColor=blue"/></a>
   <a href="mailto:firasaleas_92@yahoo.com"><img src="https://img.shields.io/badge/yahoo-D14836?style=for-the-badge&logo=yahoo&logoColor=blue"/></a>
   <a href="https://www.instagram.com/firas.aleas/#"><img src="https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=red"/></a>
-  <a href="https://github.com/codestacker92"><img src="https://img.shields.io/badge/GitHub-codestacker92-181717?style=for-the-badge&logo=github" /></a>
+  <img src="https://img.shields.io/badge/GitHub-codestacker92-181717?style=for-the-badge&logo=github" />
 
 
 
